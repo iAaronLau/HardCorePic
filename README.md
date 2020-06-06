@@ -7,9 +7,9 @@
 
 # 效果 
 
-输入：
+输入：  
 ![Image text](https://raw.githubusercontent.com/PowerShellA/HardCorePic/master/images/src.PNG)
 
-输出：
+输出：  
 ![Image text](https://raw.githubusercontent.com/PowerShellA/HardCorePic/master/images/src.PNG_out.jpg)
 
